@@ -35,7 +35,7 @@ visio-conférence et la programmation de formations présentielles.
 
 ## Acteurs 
 
-###Maîtrise d'ouvrage
+### Maîtrise d'ouvrage
 
 |Numéro|Nom|Formation|Rôle|
 |------|---|---------|----|
@@ -44,7 +44,7 @@ visio-conférence et la programmation de formations présentielles.
 |3| ATARMLA Abdou-Raouf | Etudiant en 3eme année en Génie Logiciel | Designer et Développeur |
 
 
-###Maîtrise d'oeuvre
+### Maîtrise d'oeuvre
 
 |Numéro|Nom|Formation|Rôle|
 |------|---|---------|----|
