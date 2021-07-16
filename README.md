@@ -38,6 +38,7 @@ visio-conférence et la programmation de formations présentielles.
 ###Maîtrise d'ouvrage
 
 |Numéro|Nom|Formation|Rôle|
+|------|---|---------|----|
 |1| BIAO | Etudiant en 3eme année de Mathématiques| Superviseur et Point Focal|
 |2| AGORO Jocelyn Lakazo | Etudiant en 3eme année en Génie Logiciel | Concepteur et Développeur |
 |3| ATARMLA Abdou-Raouf | Etudiant en 3eme année en Génie Logiciel | Designer et Développeur |
@@ -46,6 +47,7 @@ visio-conférence et la programmation de formations présentielles.
 ###Maîtrise d'oeuvre
 
 |Numéro|Nom|Formation|Rôle|
+|------|---|---------|----|
 |1| BIAO | Etudiant en 3eme année de Mathématiques| Superviseur et Point Focal|
 |2| AGORO Jocelyn Lakazo | Etudiant en 3eme année en Génie Logiciel | Concepteur et Développeur |
 |3| ATARMLA Abdou-Raouf | Etudiant en 3eme année en Génie Logiciel | Designer et Développeur |
@@ -58,7 +60,7 @@ les cours en ligne.
 
 ## Glossaire
 
--- Explicatioons des termes techiniques ici
+-- Explications des termes techinques ici
 
 # Besoins fonctionnels
 
