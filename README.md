@@ -26,7 +26,7 @@ visio-conférence et la programmation de formations présentielles.
 
 * Programmation des formations et rencontres
 * Création de contenu éducatif 
-* Attribution des droits aux utilisateurs pour l'échange et 
+* Attribution des droits aux utilisateurs pour l'échange et les propositions
 
 **Pour les Apprenants**
 
